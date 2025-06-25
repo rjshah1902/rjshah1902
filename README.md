@@ -1,4 +1,4 @@
-# Hi there, I'm Raj Shah! 👋
+# Hi there, I'm Rahul Shah! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;JavaScript+Enthusiast;Problem+Solver;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
