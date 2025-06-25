@@ -83,12 +83,6 @@ A React component for seamless Facebook authentication integration.
   </a>
 </div>
 
-## 💭 Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</div>
-
 ---
 
 <div align="center">
