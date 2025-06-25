@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Full Stack Development**
-- 🌱 I'm continuously learning **React, Node.js, and modern web technologies**
+- 🔭 I'm currently working on **Full Stack Development & Mobile Apps**
+- 🌱 I'm continuously learning **React, Node.js, Flutter, and modern web technologies**
 - 👯 I'm looking to collaborate on **innovative web applications**
-- 💬 Ask me about **JavaScript, React, and web development**
+- 💬 Ask me about **JavaScript, React, Flutter, and web/mobile development**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/rjshah1902/)**
 - ⚡ Fun fact: **I love solving complex problems with simple solutions**
 
@@ -21,6 +21,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,12 +40,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjshah1902&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjshah1902&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjshah1902&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rjshah1902&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjshah1902&theme=radical&hide_border=true" alt="GitHub Streak" width="32%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjshah1902&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="32%">
 </div>
 
 ## 🏆 Featured Projects
